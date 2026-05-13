@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="NesirDrivingCenter/Resources/photo_2024-12-10_19-19-25-removebg.png" width="300" alt="Nesir Driving Center Logo">
+  <img src="NesirDrivingCenter/Resources/logo_final.png" width="400" alt="Nesir Driving Center Logo">
   
   # Nesir Driving Center Student Registration System
   
