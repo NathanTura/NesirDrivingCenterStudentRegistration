@@ -12,9 +12,6 @@
 
 ---
 
-## 📖 About
-Nesir Driving Center Student Registration System is a robust desktop application designed to streamline the administrative tasks of a driving school. It provides a centralized platform for managing student information, tracking payment histories, and monitoring training progress.
-
 ### Core Features
 - **Student Enrollment**: Simplified form for registering new students with personal and training details.
 - **Dashboard**: A high-level overview of all enrollees with quick search and filter capabilities.
